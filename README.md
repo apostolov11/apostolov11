@@ -7,5 +7,5 @@ My tech stack:
 •	JSON и XML 
 •	Spring Flamework (Data, Boot, Security, MVC)
 •	RESTful API, HTTP
-•	Database –MySQL,MongoDB 
+•	Database – MySQL,MongoDB 
 •	HTML, CSS, Bootstrap
